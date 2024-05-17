@@ -261,6 +261,9 @@ module virtualMachine2 'br/public:avm/res/compute/virtual-machine:0.4.2' = {
 //    enablePrivateIpAddress: true
 //    gatewayDefaultSiteLocalNetworkGatewayId: localNetworkGateway.outputs.resourceId
 //    location: 'WestEurope'
+//    domainNameLabel: [
+//      'dm-nvgvpn'
+//      ]
 //    publicIpZones: [
 //      1
 //      2
