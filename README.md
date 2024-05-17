@@ -18,3 +18,5 @@ Ik ga er van uit dat je Routing intent hebt laten staan.
 11. Verbind deze Virtual Network Gateway met de VWAN op basis van BGP.
 12. Welke routes krijg je binnen van de VWAN op de VNET Gateway?
 13. Welke routes krijg je binnen op de VNET GW als je routing intent uitschakelt op de VWAN?
+
+![image](/Overview.png)
